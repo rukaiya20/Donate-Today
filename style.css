@@ -317,4 +317,29 @@
     margin-left: -4px;
 }
 /* contact us style */
+/* footer style */
+.footer{
+    text-align: center;
+    background-color: #121212;
+}
+.footer h2{
+    color: #FF5959;
+    font-family: Lobster;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    padding-top: 42px;
+    margin-bottom: 24px;
+}
+.footer p{
+    color: var(--text-gray-300, #D9DBE1);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 43px;
+}
+/* footer style */
 
