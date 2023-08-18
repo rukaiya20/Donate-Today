@@ -97,7 +97,69 @@
     border-radius: 5px;
     background: #FF5959;
     margin-top: 30px;
-    padding: 16px 12px;
-    
+    padding: 16px 12px;  
 }
 /* donation style */
+/* donation plan style */
+.donation-plan{
+    margin-top: 130px;
+}
+/* donation plan headings style */
+.donation-plan-texts h2{
+    color: #121212;
+    text-align: center;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.donation-plan-texts p{
+    color: #707070;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 20px 0px 50px 0px;
+}
+
+/* donation plan card style */
+.donationPlan-Cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin: 0px 130px;
+}
+.donationPlan-Cards img{
+    padding-bottom: 32px;
+}
+.donationPlan-Cards h2{
+    color: #121212;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.donationPlan-Cards p{
+    color: #707070;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card1{
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+    padding: 60px 20px 55px 25px;
+}
+.card2{
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+    padding: 60px 20px 55px 25px;
+}
+.card3{
+    border-radius: 5px;
+    background: #FFF4D6;
+    padding: 60px 20px 55px 25px;
+}
+/* donation plan style */
